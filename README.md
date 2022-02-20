@@ -8,6 +8,10 @@ Provides Smart Chain clients for JS bots.
 
 A [Web3X](https://web3x.net) Product
 
+Licensed under [GPLv3](LICENSE.md):
+* Free to use (including commercial use) and modify
+* Required to open-source any modifications
+
 ### Installation
 
 #### Setup NPM installation from Github Packages
