@@ -25,3 +25,5 @@ jobs:
         run: yarn
       - name: Publish Package
         run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.ORG_TOKEN }}
